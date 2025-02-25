@@ -2,6 +2,7 @@
 BookBot is a feature-rich digital library management system built using ReactJS, Tailwind CSS, Node.js, Express.js, MySQL, and Firebase for authentication. Below are the key features of the platform:
 
 🔹 Key Features
+
 User Authentication – Secure login and sign-up using Firebase Services to ensure data privacy and access control.
 
 Avatar Selection – Users can personalize their profile by selecting an avatar based on their age group for a customized experience.
